@@ -3,7 +3,7 @@
 A clean and modern personal portfolio website showcasing my UI/UX design projects, case studies, and creative work.
 
 ## 🔗 Live Demo
-https://Kartika_portfolio.github.io/portfolio/
+(https://Kartika_portfolio.github.io/portfolio/)
 
 ## ✨ Features
 - Responsive UI
