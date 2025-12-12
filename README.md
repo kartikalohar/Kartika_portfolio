@@ -3,7 +3,7 @@
 A clean and modern personal portfolio website showcasing my UI/UX design projects, case studies, and creative work.
 
 ## 🔗 Live Demo
-https://yourusername.github.io/portfolio/
+https://Kartika_portfolio.github.io/portfolio/
 
 ## ✨ Features
 - Responsive UI
@@ -22,5 +22,5 @@ https://yourusername.github.io/portfolio/
 2. Open `index.html` in your browser.
 
 ## 📬 Contact
-Email: your@email.com  
-LinkedIn: https://linkedin.com/in/yourprofile
+Email: kitukartika@email.com  
+LinkedIn: (http://www.linkedin.com/in/kartika-lohar-490121297)
