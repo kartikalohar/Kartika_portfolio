@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: hsl(228, 91%, 13%);
+  background-color: hsl(180, 10%, 4%);
   color: #f15b83;
   scroll-behavior: smooth;
 }
@@ -15,8 +15,8 @@ body {
 header {
   position: sticky;
   top: 0;
-  background: #012649;
-  box-shadow: 0 2px 8px rgba(161, 141, 220, 0.1);
+  background: #111827;
+  box-shadow: 0 2px 8px rgba(255, 255, 255, 0.981);
   z-index: 100;
 }
 .navbar {
@@ -30,7 +30,7 @@ header {
   font-weight: 700;
 }
 .logo span {
-  color: #cc06fd;
+  color: #ffffff;
 }
 .nav-links {
   display: flex;
@@ -44,7 +44,7 @@ header {
   transition: 0.3s;
 }
 .nav-links a:hover {
-  color: #dd76fa;
+  color: #f15b83;
 }
 .menu-toggle {
   display: none;
@@ -61,7 +61,7 @@ header {
   justify-content: center;
   text-align: center;
   height: 92vh;
-  background: linear-gradient(to right,  #020205);
+  background: linear-gradient(to right,  #1e2538);
   position: relative;
   overflow: hidden;
 }
@@ -79,7 +79,7 @@ header {
 
 .shape {
   position: absolute;
-  background: #cffffb9e;
+  background: #85f1e8;
   border-radius: 50%;
   animation: float 6s ease-in-out infinite;
   filter: blur(5px);
@@ -114,7 +114,7 @@ header {
   font-size: 2.5rem;
 }
 .hero h1 span {
-  color: #b652f5;
+  color: #ffffff;
 }
 .hero h2 {
   margin: 0.5rem 0;
@@ -170,7 +170,7 @@ header {
 
 /* PROJECTS */
 .projects {
-  background: #82cafe;
+  background: #1e2538;
   padding: 4rem 2rem;
   text-align: center;
 }
@@ -218,7 +218,7 @@ header {
 
 /* VIDEOS SECTION */
 .videos {
-  background: #c4d3f2;
+  background: #05070b;
   padding: 4rem 2rem;
   text-align: center;
 }
@@ -246,7 +246,7 @@ header {
 
 /* CERTIFICATES SECTION */
 .certificates {
-  background: #5283d7;
+  background: #1e2538;
   padding: 4rem 2rem;
   text-align: center;
 }
@@ -257,7 +257,7 @@ header {
   margin-top: 2rem;
 }
 .certificate-card {
-  background: rgb(52, 79, 118);
+  background: rgb(12, 14, 17);
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(157, 129, 129, 0.1);
   overflow: hidden;
@@ -289,7 +289,7 @@ header {
   margin-top: 2rem;
 }
 .skills-list span {
-  background: #007bff;
+  background: #102e48;
   color: #fff;
   padding: 0.5rem 1rem;
   border-radius: 20px;
@@ -298,7 +298,7 @@ header {
 
 /* CONTACT */
 .contact {
-  background: #82cafe;
+  background: #05090b;
   text-align: center;
   padding: 4rem 2rem;
 }
@@ -310,3 +310,4 @@ footer {
   text-align: center;
   padding: 1rem;
 }
+
